@@ -1,16 +1,61 @@
-## Hi there 👋
+<div align="center">
+  
+  # Hi there, I'm Nikunj Bisani! 👋
+  
+  <h3> 👨‍💻 Developer | 🏏 Cricket Enthusiast | 🎓 CSE Student </h3>
 
-<!--
-**RANINA12/RANINA12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    <i>"Building, breaking, learning, and leveling up."</i>
+  </p>
 
-Here are some ideas to get you started:
+  <a href="mailto:nikunjbisani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/nikunjbisani">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🧐 About Me
+
+- 🔭 I’m currently working as an **Intern at Hotwax Systems**.
+- 🎓 Final year **B.Tech in Computer Science & Engineering**.
+- 🌱 I’m exploring how **Data Analytics** connects with backend logic to build efficient, scalable code.
+- ⚡ **Fun fact:** I believe debugging teaches you more than tutorials... and I'm a massive **Cricket** fan! 🏏
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Technologies |
+|:---:|:---|
+| **Languages** | `JavaScript` `Java` `C` |
+| **Frontend** | `React` `HTML5` `CSS3` |
+| **Backend** | `Node.js` `Express` `Moqui` |
+| **Database** | `MySQL` `MongoDB` |
+| **Tools** | `Git` `GitHub` `VS Code` |
+
+---
+
+### 🚀 What I Do
+
+I love turning complex problems into simple, beautiful code. 
+* **Real-World Projects:** Building apps that solve actual problems.
+* **Continuous Learning:** Experimenting with new tech stacks and failing fast to learn faster.
+* **Performance:** Obsessing over code quality and database efficiency.
+
+---
+
+### 🤝 Let’s Connect
+
+I'm always open to discussing **Web Development**, **Backend Architecture**, or **Data Science**.
+
+- 👯 Open to collaborating on interesting open-source projects.
+- 📫 Reach me via **GitHub issues** or shoot me an email!
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikunjbisani&style=flat-square&color=blue" alt="Profile Views" />
+</div>
