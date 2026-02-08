@@ -5,7 +5,7 @@
   <h3> 👨‍💻 Developer | 🏏 Cricket Enthusiast | 🎓 CSE Student </h3>
 
   <p>
-    <i>"Building, breaking, learning, and leveling up."</i>
+    <i>"Learning systems, patterns, and probabilities — that’s how I see AI."</i>
   </p>
 
   <a href="mailto:nikunjbisani@gmail.com">
@@ -40,12 +40,15 @@
 
 ---
 
-### 🚀 What I Do
+🚀 What I Do
 
-I love turning complex problems into simple, beautiful code. 
-* **Real-World Projects:** Building apps that solve actual problems.
-* **Continuous Learning:** Experimenting with new tech stacks and failing fast to learn faster.
-* **Performance:** Obsessing over code quality and database efficiency.
+As a software engineering intern, I’m gaining hands-on exposure to how real-world systems operate beyond just writing code.
+
+Supply Chain & Inventory: Learning the flow of inventory, order processing, and system dependencies.
+
+Client Handling: Supporting client communication and understanding requirements from a business perspective.
+
+Cross-Team Work: Learning how multiple teams coordinate to build and maintain effective solutions.
 
 ---
 
