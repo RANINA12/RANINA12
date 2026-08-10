@@ -2,7 +2,7 @@
   
   # Hi there, I'm Nikunj Bisani! 👋
   
-  <h3> 👨‍💻 Developer | 🏏 Cricket Enthusiast | 🎓 CSE Student </h3>
+  <h3> 👨‍💻 Developer | 🏏 Cricket Enthusiast </h3>
 
   <p>
     <i>"Learning systems, patterns, and probabilities — that’s how I see AI."</i>
@@ -21,8 +21,7 @@
 
 ### 🧐 About Me
 
-- 🔭 I’m currently working as an **Intern at Hotwax Systems**.
-- 🎓 Final year **B.Tech in Computer Science & Engineering**.
+- 🔭I’m currently gaining hands-on industry experience at **HotWax Systems**, while continuously learning and developing my technical skills.
 - 🌱 I’m exploring how **Data Analytics** connects with backend logic to build efficient, scalable code.
 - ⚡ **Fun fact:** I believe debugging teaches you more than tutorials... and I'm a massive **Cricket** fan! 🏏
 
@@ -34,15 +33,15 @@
 |:---:|:---|
 | **Languages** | `JavaScript` `Java` `C` |
 | **Frontend** | `React` `HTML5` `CSS3` |
-| **Backend** | `Node.js` `Express` `Moqui` |
+| **Backend** | `Node.js` `Express`|
 | **Database** | `MySQL` `MongoDB` |
-| **Tools** | `Git` `GitHub` `VS Code` |
+| **Tools** | `Git` `GitHub` `VS Code` `intellij idea`|
 
 ---
 
 🚀 What I Do
 
-As a software engineering intern, I’m gaining hands-on exposure to how real-world systems operate beyond just writing code.
+As a software engineer, I’m gaining hands-on exposure to how real-world systems operate beyond just writing code.
 
 Supply Chain & Inventory: Learning the flow of inventory, order processing, and system dependencies.
 
